@@ -27,3 +27,6 @@ This project requires Python and the following Python libraries installed:
 You will have to scrap data from various indian news or articles sites. You can use any of the scraping tools like selenium/ beautifulSoup for gathering data from Various sites.
 
 ### Target: Predict the virality of news content
+
+References:  1. How to Scrap data using beautifulSoup https://www.youtube.com/watch?v=ng2o98k983k
+             2. Machine learning and data visualization : Refer to sentdex lectures on youtube
